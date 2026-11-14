@@ -36,7 +36,7 @@ Specializing in versatile technology solutions from embedded systems to machine 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------| ---- |
 | **MatSciHub** | CLI tools for DevOps and system administration | Rust, Python, Bash | [Github Link](https://github.com/tanvirsaklan/matscihub) |
-| **Automation Toolkit** | CLI tools for DevOps and system administration | Rust, Python, Bash | [Github Link](https://github.com/tanvirsaklan/miscellaneous) |
+| **Automation Toolkit** | CLI tools for DevOps and system administration | Rust, Python, Bash | [Github Link](https://github.com/tanvirsaklan/playground) |
 
 ---
 
